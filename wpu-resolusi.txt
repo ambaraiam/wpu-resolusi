@@ -1,3 +1,5 @@
 WPU - RESOLUSI:
 -- Belajar Program
 -- Membuat Project
+-- Implementasikan Project
+-- Pengujian Sistem
